@@ -18,11 +18,11 @@
 ## Иностранные языки:
 - Английский (B1) :uk:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sonyamaster1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vladbarsukov&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonyamaster1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladbarsukov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonyamaster1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladbarsukov)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **vladbarsukov/vladbarsukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
