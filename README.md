@@ -1,4 +1,6 @@
-# Привет, я Влад, веб разработчик, рад видеть тебя в моем GitHub 👋
+# Привет, я Влад, рад видеть тебя в моем GitHub 👋
+
+### Я начинающий FrontEnd разработчик.
 
 # Мой стек технологий:
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
@@ -11,6 +13,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+
+Если у вас возникнут какие-либо вопросы или предложения, не стесняйтесь связаться со мной через Telegram или по электронной почте. Надеюсь, мой профиль в GitHub вам понравится!
 
 # Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/vlad_barsukov)  
