@@ -1,5 +1,28 @@
-### Hi there 👋
+### Привет, я Влад, веб разработчик, рад видеть тебя в моем GitHub 👋
 
+# Мой стек технологий:
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
+![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
+
+# Контакты:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/vlad_barsukov)
+
+## Иностранные языки:
+- Английский (B1) :uk:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sonyamaster1&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonyamaster1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonyamaster1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **vladbarsukov/vladbarsukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
