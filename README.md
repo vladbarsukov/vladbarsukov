@@ -14,7 +14,8 @@
 
 # Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/vlad_barsukov)
-Mail me@vladbarsukov.ru
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](me@vladbarsukov.ru)
+
 
 ## Иностранные языки:
 - Английский (B1) :uk:
