@@ -21,8 +21,8 @@
 Если у вас возникнут какие-либо вопросы или предложения, не стесняйтесь связаться со мной через Telegram или по электронной почте. Надеюсь, мой профиль в GitHub вам понравится!
 
 # Контакты:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/vlad_barsukov)  
-Email: me@vladbarsukov.ru
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/vlad_barsukov)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@vladbarsukov.ru)
 
 ## Иностранные языки:
 - Английский (B1) :uk:
