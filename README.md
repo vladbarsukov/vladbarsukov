@@ -26,7 +26,7 @@
 
 ## Иностранные языки:
 - Английский (B1) :uk:
-___
+  
 ## Моя статистика:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vladbarsukov&theme=dark)](https://git.io/streak-stats)
 
